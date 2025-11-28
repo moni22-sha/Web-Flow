@@ -25,7 +25,7 @@
 //   },
 //   {
 //     title: "Modern UX/UI",
-//     description: "Clean, professional, and trustworthy design that establishes authority and builds confidence with your clients.",
+//     description: "Clean, professional, and trustworthy design that establishes authority and dists confidence with your clients.",
 //     icon: <LayoutIcon className="h-6 w-6 text-indigo-600" />,
 //   },
 //   {
@@ -50,7 +50,7 @@
 //             Everything you need to succeed online
 //           </p>
 //           <p className="mt-4 text-xl text-slate-500">
-//             We don't just build websites; we build business tools designed to grow your company.
+//             We don't just dist websites; we dist business tools designed to grow your company.
 //           </p>
 //         </div>
 //   <div className="grid md:grid-cols-3 gap-10">
@@ -124,7 +124,7 @@ const features: ServiceFeature[] = [
   },
   {
     title: "Modern UX/UI",
-    description: "Clean, professional layouts that build trust.",
+    description: "Clean, professional layouts that dist trust.",
     icon: "🎨",
   },
   {
@@ -154,7 +154,7 @@ const Features: React.FC = () => {
             Everything you need to succeed online
           </p>
           <p className="mt-4 text-xl text-slate-500">
-            We don't just build websites; we build business tools designed to grow your company.
+            We don't just dist websites; we dist business tools designed to grow your company.
           </p>
         </div>
 
